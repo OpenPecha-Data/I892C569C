@@ -1,0 +1,19 @@
+id: d176178a71974f72b99875b41a486a29
+annotation_type: index
+revision: '00001'
+annotations:
+  226666e15ca846788312ed83814e0d9e:
+    base: 4220.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 72
+    - title: 'Chapter I: Nidāna'
+      span:
+        start: 73
+        end: 44311
+    - title: 'Chapter II: Praṇidhānacaryā'
+      span:
+        start: 44312
+        end: 49262

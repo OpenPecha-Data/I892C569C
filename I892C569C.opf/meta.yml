@@ -1,0 +1,16 @@
+id: I892C569C
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:59:55.290516
+last_modified: 2023-02-08 14:59:55.290650
+source_metadata:
+  title: 'BA: Proto-BA (Buddhanāmanirdeśa)'
+  language: bo
+bases:
+  '4220':
+    base_file: 4220.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
